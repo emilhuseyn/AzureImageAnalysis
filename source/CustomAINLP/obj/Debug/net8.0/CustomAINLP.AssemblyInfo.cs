@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomAINLP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c0e9586707dd6d44bf4755e93cfb3b982e83731")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomAINLP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomAINLP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
