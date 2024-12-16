@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emil\\source\\repos\\CustomAINLP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9551B2F6-5449-4262-9336-0A42262E3B25}|CustomAINLP\\CustomAINLP.csproj|c:\\users\\emil\\source\\repos\\customainlp\\source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9551B2F6-5449-4262-9336-0A42262E3B25}|CustomAINLP\\CustomAINLP.csproj|solutionrelative:source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\CustomAINLP\\source\\Program.cs",
+              "RelativeDocumentMoniker": "source\\Program.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\CustomAINLP\\source\\Program.cs",
+              "RelativeToolTip": "source\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:22:31.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
