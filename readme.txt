@@ -43,6 +43,13 @@ Now, you can run the application using the following command:
 This will analyze an image and tell you whether it contains adult or racy content.
 
 ---
+## Articles & Documentation
+
+For more detailed information and a step-by-step guide, check out my article on Medium:
+
+[How to Perform Image Content Analysis with Azure Cognitive Services in C#]
+(https://medium.com/@emiilhuseynov23/how-to-perform-image-content-analysis-with-azure-cognitive-services-in-c-651e47ce954a)
+
 
 ## Example Usage
 
